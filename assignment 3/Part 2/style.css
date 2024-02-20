@@ -3,3 +3,22 @@ html {
 }
 
 /* Your CSS below here */
+div{
+  
+  width: 200px;
+  height: 200px;
+  border: solid black 1px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  background-color: red;
+  box-shadow: 5px 5px 5px;
+  
+}
+.coolbox{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  
+}

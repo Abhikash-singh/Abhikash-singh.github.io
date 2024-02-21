@@ -77,5 +77,14 @@ nav li{
   width: 100px;
   height: auto;
   line-height: 20px;
+  
+}
+nav a{
+ 
+  text-decoration: none;
+  font-weight: bolder;
+}
+nav ul{
   font-weight: bold;
+  font-size: larger;
 }
